@@ -1,6 +1,7 @@
 ---
 title: August 2020
 description: "Gift, Teppiche und endloses Scrollen."
+date: 2020-08-31
 ---
 
 ## Kopfschütteln
@@ -17,7 +18,7 @@ Lustig ist das eigentlich alles nicht, die Russen stellen sich natürlich blöd 
 
 _Wirklich. Mehr gibt es dazu nicht zu sagen._
 
-[https://www.youtube.com/watch?v=omigBsOmtjw](https://www.youtube.com/watch?v=omigBsOmtjw)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omigBsOmtjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Wäre ein Blick wert!
 
@@ -47,12 +48,14 @@ _[Wer sich einmal anschauen will, wie schwer es ist so einen Teppich zu knüpfen
 
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
-> Jeder ist in sich gegangen und außer sich wieder rausgekommen! _— Rike_
+> Jeder ist in sich gegangen und außer sich wieder rausgekommen!  
+> _— Rike_
 
-> Du weißt, wie weit ich ohne Brain gekommen bin. _— Tim_
+> Du weißt, wie weit ich ohne Brain gekommen bin.  
+> _— Tim_
 
 ## Ein GIF für alle Fälle
 
 _Wer kennt es nicht: Ganz plötzlich braucht man ein GIF, hat aber gerade keins zur Stelle._
 
-[http://gph.is/1d21Ne5](http://gph.is/1d21Ne5)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kegY9CGTP2ybe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>

@@ -1,6 +1,7 @@
 ---
 title: September 2020
 description: "Gegenteile, Philosophen und ein Gedicht."
+date: 2020-09-30
 ---
 
 ## Kopfschütteln
@@ -68,7 +69,8 @@ Erstaunlich, einfach erstaunlich.
 
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
-> Der Klügere gibt nach. Der noch Klügere gibt Nachhilfe. _— Alligatoah_
+> Der Klügere gibt nach. Der noch Klügere gibt Nachhilfe.  
+> _— Alligatoah_
 
 ## Ein GIF für alle Fälle
 

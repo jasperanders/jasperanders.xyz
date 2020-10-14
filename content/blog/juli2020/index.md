@@ -1,9 +1,8 @@
 ---
 title: Juli 2020
 description: "Start, Gletscher und komischer Sport."
+date: 2020-07-31
 ---
-
-# Neuigkeiten Brief — Juli 2020
 
 ## Was ist das hier? Warum bekomme ich das?
 
@@ -28,7 +27,7 @@ Bei solchen Entwicklungen kann man nur eins tun: Kopfschütteln.
 
 _Wirklich. Mehr gibt es dazu nicht zu sagen._
 
-[https://www.youtube.com/watch?v=ck4RGeoHFko&t=20s](https://www.youtube.com/watch?v=ck4RGeoHFko&t=20s)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ck4RGeoHFko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Wäre ein Blick wert!
 
@@ -48,16 +47,14 @@ _Wird viel geredet. Worüber, ist oft erinnerungswürdig._
 
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
-> Ein Geisterfahrer? Tausende! — _gehört in_ [Logbuch:Netzpolitik 353](https://logbuch-netzpolitik.de/lnp353-ein-geisterfahrer-tausende), Linus Neumann
+> Ein Geisterfahrer? Tausende!
+> — _gehört in_ [Logbuch:Netzpolitik 353](https://logbuch-netzpolitik.de/lnp353-ein-geisterfahrer-tausende), Linus Neumann
 
-> Ich bin wirklich großer Fan der Schwerkraft. Ich halte mich deshalb auch meistens an ihre Regeln. — Rike
+> Ich bin wirklich großer Fan der Schwerkraft. Ich halte mich deshalb auch meistens an ihre Regeln.  
+> — Rike
 
 ## Ein GIF für alle Fälle
 
 _Wer kennt es nicht: Ganz plötzlich braucht man ein GIF, hat aber gerade keins zur Stelle._
 
 ![https://media.giphy.com/media/homhFhtHBeD99uTvMS/giphy.gif](https://media.giphy.com/media/homhFhtHBeD99uTvMS/giphy.gif)
-
----
-
-_[Abbestellen](https://www.youtube.com/watch?v=dQw4w9WgXcQ)_ | _[Problem melden](https://www.youtube.com/watch?v=UG4Eg5KoGik)_
