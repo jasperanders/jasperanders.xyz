@@ -331,3 +331,9 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+@media (max-width: 450px) {
+  h1 {
+    font-size: var(--fontSize-4) !important;
+  }
+}
