@@ -57,7 +57,7 @@
   --fontSize-7: 2.986rem;
   --color-primary: #e98074;
   --color-background: #ffffff;
-  --color-text: #8e8d8a;
+  --color-text: #5c5b5a;
   --color-text-light: #4f5969;
   --color-heading: #e85a4f;
   --color-heading: #4f5969;
@@ -72,7 +72,7 @@
     --fontSize-2: 1.2rem;
     --fontSize-3: 1.44rem;
     --fontSize-4: 1.728rem;
-    --fontSize-5: 2.074rem;
+    --fontSize-5: var(--fontSize-4);
     --fontSize-6: var(--fontSize-4);
     --fontSize-7: var(--fontSize-4);
   }
