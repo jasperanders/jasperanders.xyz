@@ -4,8 +4,6 @@ description: "Genussmittel, Hegel und kluge Tipps."
 date: 2020-10-31
 ---
 
-_[Gibts auch hier, in ein bisschen schöner!](https://www.jasperanders.xyz/oktober2020/)_
-
 ## Kopfschütteln
 
 _Wenn die Worte fehlen._
