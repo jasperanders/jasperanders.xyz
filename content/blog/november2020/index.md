@@ -40,7 +40,7 @@ _In der letzten Ausgabe habe ich einen Witz vorgestellt, der nur wenig belacht w
 
 Die meisten Menschen lachen gerne. Es gibt nur wenige, die ein völlig ernstes Leben mit herabgezogenen Mundwinkeln gewählt haben. Doch selbst diese armen Seelen, ich kann es nicht anders glauben, lachen, wenn sie lachen, gerne. Das ist doch geradezu fabelhaft. Über alle Kulturen und Geschmäcker, Ansichten und -ismen hinweg, sind wir uns einig, dass das Lachen etwas außerordentlich Gutes ist. Diejenigen, die jetzt schon Harmonie und Einklang wittern, muss ich enttäuschen, worauf wir uns nämlich gar nicht einigen können ist, worüber wir lachen. Woran liegt das? Und vielleicht genauso wichtig: Wann müssen wir überhaupt lachen?
 
-Eleganterweise liegt die Antwort der ersten Frage in der Antwort der zweiten. Es ist sicherlich klar, dass niemand die _tatsächliche Antwort_ geben kann, aber dafür gibt es schließlich Theorien. Die überzeugendste, ist die Theorie des _"harmlosen Verstoßes" (engl. [benign violation](http://leeds-faculty.colorado.edu/mcgrawp/Benign_Violation_Theory.html))._
+Eleganterweise liegt die Antwort der ersten Frage in der Antwort der zweiten. Es ist sicherlich klar, dass niemand die _tatsächliche Antwort_ geben kann, aber dafür gibt es schließlich Theorien. Die überzeugendste, ist die Theorie des _"harmlosen Verstoßes" (engl. [benign violation](http://leeds-faculty.colorado.edu/mcgrawp/Benign_Violation_Theory.html) )._
 
 ![harmloser](img/harmloserVersto.png)
 
