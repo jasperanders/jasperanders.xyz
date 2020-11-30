@@ -26,7 +26,7 @@ American Factory ist eine Dokumentation über das Arbeiten. Sie zeigt, welch unt
 
 _Es gibt Dinge, die gibt es nicht. Aber wenn es sie gäbe, dann wären sie einen Blick Wert. Heute:_
 
-Künstliche Intelligenz ist in aller Munde. Wer am Zahn der Zeit sein will, nutzt deshalb den neuen Service von "**I Want AI**". Für große und kleine Unternehmen in allen Branchen und Bereichen.
+Künstliche Intelligenz ist in aller Munde. Wer am Puls der Zeit sein will, nutzt deshalb den neuen Service von "**I Want AI**". Für große und kleine Unternehmen in allen Branchen und Bereichen.
 
 ![AI](img/ai.png)
 
