@@ -16,7 +16,7 @@ Die Antwort fällt leicht. DNA ist verdammt klein und kann verdammt alt werden. 
 
 Wie verhält es sich aber mit der Speicherdichte? M-Discs halten sich lange, können allerdings nur um die 100 GB pro Stück speichern und dass Keramiktafeln kein effizientes Speichermedium sind, muss ich glaube ich nicht erwähnen. DNA ist nicht nur gut was die Speicherdichte angeht, sondern DNA ist direkt auch noch das Beste, was unsere Welt so zu bieten hat. DNA ist so dicht, dass man in einem Gramm DNA 215.000 Terabyte speichern könnte. Oder anders gesagt, alle Filme, die jemals gedreht wurden, könnten wir in einem zuckerwürfelgroßen Klumpen DNA ablegen.
 
-Aller Wahrscheinlichkeit nach wird sich der DNA-Stick in ein paar Jahren nicht als Speichermedium durchgesetzt haben. Dafür dauert es einfach zu lange Daten zu speichern und [auszulesen](https://en.wikipedia.org/wiki/DNA_sequencer#Comparison). Ich finde es allerdings eine beruhigende Vorstellung, dass wir alle die wunderbaren digitalen Erzeugnisse zumindest für eine kleine Ewigkeit speichern können.
+Aller Wahrscheinlichkeit nach wird sich der DNA-Stick in ein paar Jahren nicht als Speichermedium durchgesetzt haben. Dafür dauert es einfach zu lange Daten zu speichern und [auszulesen](https://en.wikipedia.org/wiki/DNA_sequencer#Comparison). Ich finde es allerdings eine beruhigende Vorstellung, dass wir all die wunderbaren digitalen Erzeugnisse zumindest für eine kleine Ewigkeit speichern können.
 
 ## Ist ein Blick wert!
 
