@@ -19,13 +19,14 @@ const Layout = ({ location, title, children }) => {
       </h1>
     );
   }
-
+  
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <hr />
       <main>{children}</main>
       <footer>© {new Date().getFullYear()}</footer>
+      <Link to="/impress">Impressum</Link>
     </div>
   );
 };
