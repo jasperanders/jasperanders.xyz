@@ -1,7 +1,7 @@
 ---
 title: Februar 2021
 description: "Lock-In, Murmeln und Kränkung."
-date: 2021-03-28
+date: 2021-02-28
 ---
 
 ## Lock-In Effekt
