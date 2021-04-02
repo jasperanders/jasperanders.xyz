@@ -4,8 +4,6 @@ description: "Schwäche, Container und Container und Container."
 date: 2021-03-31
 ---
 
-**Schau mal:** **[Gibt's auch in ein bisschen schöner, einfach mal hier klicken.](https://www.jasperanders.xyz/2021/2021-03/)**
-
 ## Die größte Schwäche
 
 In jedem Bewerbungsgespräch lauert eine Frage: "Was ist Ihre größte Schwäche?" Dabei ist diese Frage nicht nur sehr unangenehm für den Befragten, nein, es scheint mir auch, eine vollkommen sinnfreie Frage zu sein. Klar, es ist schon wichtig, dass man sich selbst einschätzen kann und damit auch weiß, wann man schwächelt. Trotzdem wird vom Interviewten wohl kaum Ehrlichkeit erwartet. Schwächen wie "Ich bin ein leicht reizbarer Choleriker", "Ich bin einfach stinkefaul" oder "Leider habe ich von keiner der ausgeschriebenen Aufgaben auch nur im Ansatz eine Ahnung" werden mit großer Wahrscheinlichkeit unerwähnt bleiben. Was also soll diese Frage? Und wichtiger, was ist die richtige Antwort? Da es sich nicht um eine ernst gemeinte Frage handeln kann, muss diese Frage einen anderen Sinn haben.
