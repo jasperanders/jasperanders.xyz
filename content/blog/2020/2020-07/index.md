@@ -51,7 +51,7 @@ _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis da
 > — _gehört in_ [Logbuch:Netzpolitik 353](https://logbuch-netzpolitik.de/lnp353-ein-geisterfahrer-tausende), Linus Neumann
 
 > Ich bin wirklich großer Fan der Schwerkraft. Ich halte mich deshalb auch meistens an ihre Regeln.  
-> — Rike
+> — R
 
 ## Ein GIF für alle Fälle
 

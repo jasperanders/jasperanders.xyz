@@ -49,7 +49,7 @@ _[Wer sich einmal anschauen will, wie schwer es ist so einen Teppich zu knüpfen
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
 > Jeder ist in sich gegangen und außer sich wieder rausgekommen!  
-> _— Rike_
+> _— R_
 
 > Du weißt, wie weit ich ohne Brain gekommen bin.  
 > _— Tim_
