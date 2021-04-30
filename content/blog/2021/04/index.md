@@ -6,7 +6,7 @@ date: 2021-04-30
 
 ## Technomagie
 
-Arthur C. Clarke schrieb einmal: "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden." Meist wird der gute Clarke von Science-Fiction-Autoren zitiert, die versuchen, Überlichtgeschwindigkeitsantriebe, Teleportation oder sonstige physikalische Unmöglichkeiten überzeugend wirken zu lassen. Obwohl das Zitat Bilder von ferner Zukunft auslöst, denke ich, dass man sich nur umschauen muss, um zu erkennen, dass in Clarkes Aussage etwas Wahres steckt. Welche Implikationen hat diese Aussage also und wie können wir mit ihnen umgehen?
+Arthur C. Clarke schrieb einmal: _»Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden.«_ Meist wird der gute Clarke von Science-Fiction-Autoren zitiert, die versuchen, Überlichtgeschwindigkeits-Antriebe, Teleportation oder sonstige physikalische Unmöglichkeiten überzeugend wirken zu lassen. Obwohl das Zitat Bilder von ferner Zukunft auslöst, denke ich, dass man sich nur umschauen muss, um zu erkennen, dass in Clarkes Aussage etwas Wahres steckt. Welche Implikationen hat diese Aussage also und wie können wir mit ihnen umgehen?
 
 Werfen wir zunächst einen Blick auf die Magie: In der Welt der Zauberei gibt es zwei Arten von Tricks. Das sind zum einen Tricks, die, sobald man weiß, wie sie funktionieren, jeglichen Reiz verlieren. Zum anderen sind es Kunststücke, die einen, selbst wenn man ihr Geheimnis kennt, weiter beeindrucken. Im Kontext von (digitaler) Technologie erlebe ich eine ähnliche Zweiteilung.
 
@@ -47,4 +47,4 @@ _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis da
 
 _Wer kennt es nicht: Ganz plötzlich braucht man ein GIF, hat aber gerade keins zur Stelle._
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/1zKRlTFQ278PtPtrV2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/1zKRlTFQ278PtPtrV2">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/1zKRlTFQ278PtPtrV2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
