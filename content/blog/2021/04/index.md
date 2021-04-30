@@ -16,7 +16,7 @@ Ein Beispiel: Auf einem Computer einen neuen Ordner über das Terminal zu erstel
 
 Ein anderes Kunststück ist dieser Text. Es ist nämlich eigentlich unvorstellbar, dass diese Zeilen über das Internet aus jedem erdenklichen Winkel der Erde erreichbar sind. Selbst wenn man sich mit Internet Protokollen und Computernetzen auseinandersetzt, kommt man nicht umhin, über den kollektiven Kraftakt, der das Internet ermöglicht, zu staunen. Dabei liegt die "Magie" hier nicht in den fundamentalen Konzepten des Internets. Es braucht kein Genie, diese grundlegenden Zusammenhänge zu verstehen. "Magisch" ist die Komplexität, die sich aus der Interaktion von hunderten von Systemen ergibt.
 
-Das ist meiner Meinung nach der entscheidender Punkt: Man kann das Konzept einer Technologie verstehen, ohne, dass gleichzeitig auch das tatsächliche Zusammenspiel von verschiedenen Komponenten trivial wird. Dieser Gedanke scheint mir nicht, in der Öffentlichkeit angekommen zu sein. In der Wahrnehmung vieler ist es immer noch so, dass man, um überhaupt irgendetwas von Technologie zu verstehen, mindestens einen Doktortitle braucht, oder ein Nerd sein muss oder noch besser beides zur gleichen Zeit. Das ist eindeutig falsch. Es ist nicht nur falsch, es trägt auch noch zur weiteren Mystifizierung bei.
+Das ist meiner Meinung nach der entscheidender Punkt: Man kann das Konzept einer Technologie verstehen, ohne, dass gleichzeitig auch das tatsächliche Zusammenspiel von verschiedenen Komponenten trivial wird. Dieser Gedanke scheint mir nicht, in der Öffentlichkeit angekommen zu sein. In der Wahrnehmung vieler ist es immer noch so, dass man, um überhaupt irgendetwas von Technologie zu verstehen, mindestens einen Doktortitel braucht, oder ein Nerd sein muss oder noch besser beides zur gleichen Zeit. Das ist eindeutig falsch. Es ist nicht nur falsch, es trägt auch noch zur weiteren Mystifizierung bei.
 
 Und Mystifizierung ist ein Problem. Denn indem man Technik als etwas Magisches, Unverständliches markiert, schiebt man sie aus einem konstruktiven, öffentlichen Diskurs. Gerade bei digitaler Technologie, die unser Leben in den Grundzügen bestimmt, ist das problematisch.
 
@@ -40,7 +40,7 @@ _Wirklich. Mehr gibt es dazu nicht zu sagen._
 
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
-> Wie findet ihr die Pandemie bisher?
+> Wie findet ihr die Pandemie bisher?  
 > — Sophie Passman, Twitter
 
 ## Ein GIF für alle Fälle
