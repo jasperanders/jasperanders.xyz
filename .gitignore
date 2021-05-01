@@ -102,3 +102,7 @@ public
 
 # TernJS port file
 .tern-port
+
+# Locals
+local/
+.tmp/
