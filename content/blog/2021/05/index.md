@@ -43,7 +43,7 @@ _Uff, ganz schön langes Video und dann noch Mathe… Aber es ist gut, wirklich 
 _Irgendwann findet man sie auf der ersten Seite eines gewichtigen Buches. Bis dahin findet man sie hier._
 
 > Reichst du mir mal den Googleschreiber?  
-> — V
+> — V. A.
 
 ## Ein GIF für alle Fälle
 
