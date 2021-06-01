@@ -6,7 +6,7 @@ date: 2021-05-31
 
 ## Gelber Zettel, aber digital
 
-Deutschland impft. Das Schöne: Wer geimpft ist, kann sich nicht nur sicher fühlen, er bekommt wahrscheinlich auch ein Stück Normalität zurück. Wer die Freiheit will, muss aber sein zerfleddertes, gelbes Impfheft vorlegen, den Leuten einfach glauben, dass sie geimpft sind, kann man schließlich nicht. Diejenigen, die jetzt Schweißausbrüche bekommen, weil sie ihren Impfpass schon lange nicht mehr gesehen haben, können aber ganz entspannt sein; bald schon soll ein moderner, sicherer und digitaler Impfpass kommen.
+Deutschland impft. Das Schöne: Wer geimpft ist, kann sich nicht nur sicher fühlen, er bekommt wahrscheinlich auch ein Stück Normalität zurück. Wer die Freiheit will, muss aber sein zerfleddertes, gelbes Impfheft vorlegen. Den Leuten einfach glauben, dass sie geimpft sind, kann man schließlich nicht. Diejenigen, die jetzt Schweißausbrüche bekommen, weil sie ihren Impfpass schon lange nicht mehr gesehen haben, können aber ganz entspannt sein; bald schon soll ein moderner, sicherer und digitaler Impfpass kommen.
 
 ![1.png](1.png)
 
