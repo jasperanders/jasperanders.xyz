@@ -8,7 +8,7 @@ date: 2021-05-31
 
 Deutschland impft. Das Schöne: Wer geimpft ist, kann sich nicht nur sicher fühlen, er bekommt wahrscheinlich auch ein Stück Normalität zurück. Wer die Freiheit will, muss aber sein zerfleddertes, gelbes Impfheft vorlegen. Den Leuten einfach glauben, dass sie geimpft sind, kann man schließlich nicht. Diejenigen, die jetzt Schweißausbrüche bekommen, weil sie ihren Impfpass schon lange nicht mehr gesehen haben, können aber ganz entspannt sein; bald schon soll ein moderner, sicherer und digitaler Impfpass kommen.
 
-![1.png](1.png)
+![1.png](./1.png)
 
 Es stellt sich hier, wie bei jedem Dokument, digital oder analog, die Frage, wie Authentizität nachgewiesen werden kann. In einer analogen Welt geschieht dies über einen Stempel, eine Unterschrift und einen kleinen Aufkleber. Wirklich fälschungssicher ist das zwar nicht, aber eine gewisse Hürde gibt es dennoch. Im digitalen Kontext ist es viel weniger offensichtlich, wie man bei einem solchen Dokument Echtheit nachweist. Schließlich lassen sich digitale Dokumente beliebig vervielfältigen und im Grunde ziemlich leicht verändern. Eine PDF auf der steht, dass _Jasper Anders wirklich schon geimpft ist_, ist also nicht sonderlich glaubwürdig.
 
@@ -24,7 +24,7 @@ Das hört sich schon mal ziemlich gut an, noch besser wird es aber, wenn ich ein
 
 Wir sehen also, dass asymmetrische Verschlüsselung wirklich praktisch ist. Mit ihrer Hilfe können wir sicher Nachrichten verschicken und uns bei empfangenen Nachrichten sicher sein, von wem sie kommen. Deshalb wird sie übrigens in allen möglichen Bereichen schon seit vielen Jahren eingesetzt. Das kleine Schloss neben den meisten URLs im Browser, haben wir ihr auch zu verdanken. Es sagt aus: "Diese Seite wurde von der Organisation ausgeliefert, die du angefragt hast." Den öffentlichen Schlüssel einer jeden Webseite kannst du dir sogar selber anschauen.
 
-![2.png](2.png)
+![2.png](./2.png)
 
 Kommen wir aber zurück zum digitalen Impfass und der Public-Key-Infrastruktur. Was ein Public-Key (öffentlicher Schlüssel) ist, haben wir ja bereits oben geklärt. Der Infrastruktur-Teil bezieht sich auf die Verteilung und Bereitstellung der öffentlichen Schlüssel. Damit jemand eine Signatur überprüfen kann, muss er ja den öffentlichen Schlüssel der Stelle kennen, die z.B. ein Impfpass ausgestellt hat. In der Realität kann eine Impfung natürlich nicht nur von einer einzigen Stelle bestätigt werden, sondern z.B. von einem Impfzentrum oder einem Hausarzt. Da jede dieser Instanzen Impfungen validieren kann, hat auch jede einen eigenen privaten Schlüssel. Die Verwaltung der zugehörigen öffentlichen Schlüssel passiert in einer solchen PKI. Obwohl diese Technologie also schon seit Jahren existiert, ist das breite Ausrollen einer PKI für einen digitalen Impfpass allerdings wirklich schwierig.
 
