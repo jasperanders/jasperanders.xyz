@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
-          <BlogTitle>{post.frontmatter.title}</BlogTitle>
+          <BlogTitle>aus dem {post.frontmatter.title}</BlogTitle>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

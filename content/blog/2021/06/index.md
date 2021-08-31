@@ -4,7 +4,7 @@ description: Wahlkrampf und tanzende Roboter
 date: 2021-06-30
 ---
 
-<!-- # Der Neuigkeitenbrief
+<!-- # Marginalien
 
 **Schau mal:** **[Gibt's auch in ein bisschen schöner, einfach mal hier klicken.](https://www.jasperanders.xyz/2021/06/)** -->
 

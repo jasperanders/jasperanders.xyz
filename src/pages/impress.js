@@ -3,7 +3,7 @@ import Layout from "../components/layout";
 
 export default function Impress({ location }) {
   return (
-    <Layout location={location} title={"Der Neuigkeitenbrief"}>
+    <Layout location={location} title={"Marginalien"}>
       <div>
         <p>
           Verantwortlicher <br />

@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Der Neuigkeitenbrief`,
+    title: `Marginalien`,
     author: {
       name: `Jasper Anders`,
       summary: `Student der Wirtschaftsinformatik`,
     },
-    description: `Der vielbesungene Neuigkeitenbrief`,
+    description: `Marginalien`,
     siteUrl: `https://www.jasperanders.xyz`,
   },
   plugins: [
