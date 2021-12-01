@@ -55,7 +55,7 @@ Dass wir doch gar nicht alleine sind
 
 _Wird viel geredet. Worüber, ist oft erinnerungswürdig._
 
-Was ist das Gegenteil eines Baumes? Keine Ahnung? Ich auch nicht. Es gibt viele Dinge die haben einfach kein Gegenteil. Manch andere allerdings, unerwarteterweise, allerdings schon.
+Was ist das Gegenteil eines Baumes? Keine Ahnung? Ich auch nicht. Es gibt viele Dinge die haben einfach kein Gegenteil. Manch andere, unerwarteterweise, allerdings schon.
 
 Die Schweiz ist, trotz seiner zentralen Lage in Europa, nicht Teil einer übernationalen Staatenunion. Sie ist ein Staat, der sich recht erfolgreich aus zwei Weltkriegen herausgehalten hat. Man findet auf der Welt keinen anderen Ort an dem Leben und Dienstleistungen so teuer sind, wie in der hier. Wer in der Schweiz lebt, kann sich zu denen zählen, die eine besonders hohe Lebensqualität genießen. Zu guter Letzt, bietet die Schweiz atemberaubende Panoramen und Naturerlebnisse.
 
